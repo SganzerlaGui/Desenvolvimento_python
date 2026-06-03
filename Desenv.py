@@ -1,4 +1,4 @@
-#import random
+g#import random
 
 #entrada = input("Digite 3 numeros separados por espaço: ")
 

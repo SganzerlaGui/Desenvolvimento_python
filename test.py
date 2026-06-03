@@ -9,10 +9,18 @@
 #    preço = preço_total
 #    print(f"Valor a pagar, R$", preço)
 
-y = 0 
+#y = 0 
+#x = int(input("qual numero voce deseja terminar a tabuada?: "))
+#for i in range(y, x):
+#    y += 1
+#    print(f"{x} x {y} = {x * y}")
 
-x = int(input("qual numero voce deseja terminar a tabuada?: "))
+y = 0
 
-for i in range(y, x):
+x = 0
+
+for i in range(y,x,2):
     y += 1
-    print(f"{x} x {y} = {x * y}")
+    
+    print(y)
+
